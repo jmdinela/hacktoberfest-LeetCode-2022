@@ -7,3 +7,9 @@
 - Place: Sydney, Australia
 - Bio: Aspiring Programmer
 - GitHub - DrDSnutts
+
+
+##### Name - John Moren 
+- Place: Manila. Philippines
+- Bio: Ux Designer
+- GitHub - @jmdinela
