@@ -9,7 +9,3 @@
 - GitHub - DrDSnutts
 
 
-##### Name - John Moren 
-- Place: Manila. Philippines
-- Bio: Ux Designer
-- GitHub - @jmdinela
